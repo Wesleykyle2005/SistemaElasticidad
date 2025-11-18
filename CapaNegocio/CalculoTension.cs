@@ -34,7 +34,6 @@ namespace CapaNegocio
                 resultado.LongitudFinal = longitudInicial + resultado.AlargamientoAbsoluto;
 
                 // Verificar límite elástico (aproximadamente 70% del módulo)
-                double limiteElastico = moduloYoung * Constantes.FACTOR_LIMITE_ELASTICO;
                
             }
             catch (Exception ex)

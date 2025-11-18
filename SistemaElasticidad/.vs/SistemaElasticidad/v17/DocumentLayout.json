@@ -1,7 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistema elasticidad\\SistemaElasticidad\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistemaelastiicidad\\SistemaElasticidad\\SistemaElasticidad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C00F5F9D-EC06-4F39-B89A-2FD015C7F0F0}|..\\CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\wesley\\desktop\\proyectos\\sistemaelastiicidad\\sistemaelasticidad\\capapresentacion\\formgestionmateriales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00F5F9D-EC06-4F39-B89A-2FD015C7F0F0}|..\\CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\wesley\\desktop\\proyectos\\sistemaelastiicidad\\sistemaelasticidad\\capapresentacion\\formcompresion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00F5F9D-EC06-4F39-B89A-2FD015C7F0F0}|..\\CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\wesley\\desktop\\proyectos\\sistemaelastiicidad\\sistemaelasticidad\\capapresentacion\\formcompresion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE17CC8-9E28-4D15-8207-9FC2DBA61CB1}|..\\CapaNegocio\\CapaNegocio.csproj|c:\\users\\wesley\\desktop\\proyectos\\sistemaelastiicidad\\sistemaelasticidad\\capanegocio\\conversionunidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE17CC8-9E28-4D15-8207-9FC2DBA61CB1}|..\\CapaNegocio\\CapaNegocio.csproj|c:\\users\\wesley\\desktop\\proyectos\\sistemaelastiicidad\\sistemaelasticidad\\capanegocio\\calculovolumen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE17CC8-9E28-4D15-8207-9FC2DBA61CB1}|..\\CapaNegocio\\CapaNegocio.csproj|c:\\users\\wesley\\desktop\\proyectos\\sistemaelastiicidad\\sistemaelasticidad\\capanegocio\\calculotension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE17CC8-9E28-4D15-8207-9FC2DBA61CB1}|..\\CapaNegocio\\CapaNegocio.csproj|c:\\users\\wesley\\desktop\\proyectos\\sistemaelastiicidad\\sistemaelasticidad\\capanegocio\\calculocorte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE17CC8-9E28-4D15-8207-9FC2DBA61CB1}|..\\CapaNegocio\\CapaNegocio.csproj|c:\\users\\wesley\\desktop\\proyectos\\sistemaelastiicidad\\sistemaelasticidad\\capanegocio\\calculocompresion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14182F0-CDB3-4A09-83F2-96E8F1ABF7E0}|..\\CapaEntidades\\CapaEntidades.csproj|c:\\users\\wesley\\desktop\\proyectos\\sistemaelastiicidad\\sistemaelasticidad\\capaentidades\\resultadocompresion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14182F0-CDB3-4A09-83F2-96E8F1ABF7E0}|..\\CapaEntidades\\CapaEntidades.csproj|c:\\users\\wesley\\desktop\\proyectos\\sistemaelastiicidad\\sistemaelasticidad\\capaentidades\\resultadovolumen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14182F0-CDB3-4A09-83F2-96E8F1ABF7E0}|..\\CapaEntidades\\CapaEntidades.csproj|c:\\users\\wesley\\desktop\\proyectos\\sistemaelastiicidad\\sistemaelasticidad\\capaentidades\\resultadotension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14182F0-CDB3-4A09-83F2-96E8F1ABF7E0}|..\\CapaEntidades\\CapaEntidades.csproj|c:\\users\\wesley\\desktop\\proyectos\\sistemaelastiicidad\\sistemaelasticidad\\capaentidades\\resultadocorte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14182F0-CDB3-4A09-83F2-96E8F1ABF7E0}|..\\CapaEntidades\\CapaEntidades.csproj|c:\\users\\wesley\\desktop\\proyectos\\sistemaelastiicidad\\sistemaelasticidad\\capaentidades\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14182F0-CDB3-4A09-83F2-96E8F1ABF7E0}|..\\CapaEntidades\\CapaEntidades.csproj|c:\\users\\wesley\\desktop\\proyectos\\sistemaelastiicidad\\sistemaelasticidad\\capaentidades\\constantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D61B9A-5E80-4CEB-9E55-FCF005D8FCA0}|..\\CapaDatos\\CapaDatos.csproj|c:\\users\\wesley\\desktop\\proyectos\\sistemaelastiicidad\\sistemaelasticidad\\capadatos\\materialrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +55,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 164,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,6 +72,199 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormGestionMateriales.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistemaelastiicidad\\SistemaElasticidad\\CapaPresentacion\\FormGestionMateriales.cs",
+              "RelativeDocumentMoniker": "..\\CapaPresentacion\\FormGestionMateriales.cs",
+              "ToolTip": "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistemaelastiicidad\\SistemaElasticidad\\CapaPresentacion\\FormGestionMateriales.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\CapaPresentacion\\FormGestionMateriales.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T01:04:54.056Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormCompresion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistemaelastiicidad\\SistemaElasticidad\\CapaPresentacion\\FormCompresion.cs",
+              "RelativeDocumentMoniker": "..\\CapaPresentacion\\FormCompresion.cs",
+              "ToolTip": "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistemaelastiicidad\\SistemaElasticidad\\CapaPresentacion\\FormCompresion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\CapaPresentacion\\FormCompresion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T01:01:22.693Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormCompresion.cs",
+              "DocumentMoniker": "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistemaelastiicidad\\SistemaElasticidad\\CapaPresentacion\\FormCompresion.cs",
+              "RelativeDocumentMoniker": "..\\CapaPresentacion\\FormCompresion.cs",
+              "ToolTip": "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistemaelastiicidad\\SistemaElasticidad\\CapaPresentacion\\FormCompresion.cs",
+              "RelativeToolTip": "..\\CapaPresentacion\\FormCompresion.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T01:00:39.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConversionUnidades.cs",
+              "DocumentMoniker": "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistemaelastiicidad\\SistemaElasticidad\\CapaNegocio\\ConversionUnidades.cs",
+              "RelativeDocumentMoniker": "..\\CapaNegocio\\ConversionUnidades.cs",
+              "ToolTip": "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistemaelastiicidad\\SistemaElasticidad\\CapaNegocio\\ConversionUnidades.cs",
+              "RelativeToolTip": "..\\CapaNegocio\\ConversionUnidades.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T00:59:52.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalculoVolumen.cs",
+              "DocumentMoniker": "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistemaelastiicidad\\SistemaElasticidad\\CapaNegocio\\CalculoVolumen.cs",
+              "RelativeDocumentMoniker": "..\\CapaNegocio\\CalculoVolumen.cs",
+              "ToolTip": "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistemaelastiicidad\\SistemaElasticidad\\CapaNegocio\\CalculoVolumen.cs",
+              "RelativeToolTip": "..\\CapaNegocio\\CalculoVolumen.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T00:58:48.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CalculoCorte.cs",
+              "DocumentMoniker": "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistemaelastiicidad\\SistemaElasticidad\\CapaNegocio\\CalculoCorte.cs",
+              "RelativeDocumentMoniker": "..\\CapaNegocio\\CalculoCorte.cs",
+              "ToolTip": "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistemaelastiicidad\\SistemaElasticidad\\CapaNegocio\\CalculoCorte.cs",
+              "RelativeToolTip": "..\\CapaNegocio\\CalculoCorte.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T00:56:25.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ResultadoVolumen.cs",
+              "DocumentMoniker": "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistemaelastiicidad\\SistemaElasticidad\\CapaEntidades\\ResultadoVolumen.cs",
+              "RelativeDocumentMoniker": "..\\CapaEntidades\\ResultadoVolumen.cs",
+              "ToolTip": "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistemaelastiicidad\\SistemaElasticidad\\CapaEntidades\\ResultadoVolumen.cs",
+              "RelativeToolTip": "..\\CapaEntidades\\ResultadoVolumen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T00:53:37.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResultadoTension.cs",
+              "DocumentMoniker": "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistemaelastiicidad\\SistemaElasticidad\\CapaEntidades\\ResultadoTension.cs",
+              "RelativeDocumentMoniker": "..\\CapaEntidades\\ResultadoTension.cs",
+              "ToolTip": "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistemaelastiicidad\\SistemaElasticidad\\CapaEntidades\\ResultadoTension.cs",
+              "RelativeToolTip": "..\\CapaEntidades\\ResultadoTension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T00:53:21.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ResultadoCorte.cs",
+              "DocumentMoniker": "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistemaelastiicidad\\SistemaElasticidad\\CapaEntidades\\ResultadoCorte.cs",
+              "RelativeDocumentMoniker": "..\\CapaEntidades\\ResultadoCorte.cs",
+              "ToolTip": "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistemaelastiicidad\\SistemaElasticidad\\CapaEntidades\\ResultadoCorte.cs",
+              "RelativeToolTip": "..\\CapaEntidades\\ResultadoCorte.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T00:52:35.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResultadoCompresion.cs",
+              "DocumentMoniker": "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistemaelastiicidad\\SistemaElasticidad\\CapaEntidades\\ResultadoCompresion.cs",
+              "RelativeDocumentMoniker": "..\\CapaEntidades\\ResultadoCompresion.cs",
+              "ToolTip": "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistemaelastiicidad\\SistemaElasticidad\\CapaEntidades\\ResultadoCompresion.cs",
+              "RelativeToolTip": "..\\CapaEntidades\\ResultadoCompresion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T00:51:00.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Material.cs",
+              "DocumentMoniker": "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistemaelastiicidad\\SistemaElasticidad\\CapaEntidades\\Material.cs",
+              "RelativeDocumentMoniker": "..\\CapaEntidades\\Material.cs",
+              "ToolTip": "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistemaelastiicidad\\SistemaElasticidad\\CapaEntidades\\Material.cs",
+              "RelativeToolTip": "..\\CapaEntidades\\Material.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T00:50:05.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CalculoTension.cs",
+              "DocumentMoniker": "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistemaelastiicidad\\SistemaElasticidad\\CapaNegocio\\CalculoTension.cs",
+              "RelativeDocumentMoniker": "..\\CapaNegocio\\CalculoTension.cs",
+              "ToolTip": "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistemaelastiicidad\\SistemaElasticidad\\CapaNegocio\\CalculoTension.cs",
+              "RelativeToolTip": "..\\CapaNegocio\\CalculoTension.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T00:49:24.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CalculoCompresion.cs",
+              "DocumentMoniker": "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistemaelastiicidad\\SistemaElasticidad\\CapaNegocio\\CalculoCompresion.cs",
+              "RelativeDocumentMoniker": "..\\CapaNegocio\\CalculoCompresion.cs",
+              "ToolTip": "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistemaelastiicidad\\SistemaElasticidad\\CapaNegocio\\CalculoCompresion.cs",
+              "RelativeToolTip": "..\\CapaNegocio\\CalculoCompresion.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T00:49:21.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Constantes.cs",
+              "DocumentMoniker": "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistemaelastiicidad\\SistemaElasticidad\\CapaEntidades\\Constantes.cs",
+              "RelativeDocumentMoniker": "..\\CapaEntidades\\Constantes.cs",
+              "ToolTip": "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistemaelastiicidad\\SistemaElasticidad\\CapaEntidades\\Constantes.cs",
+              "RelativeToolTip": "..\\CapaEntidades\\Constantes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T00:47:22.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MaterialRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistemaelastiicidad\\SistemaElasticidad\\CapaDatos\\MaterialRepositorio.cs",
+              "RelativeDocumentMoniker": "..\\CapaDatos\\MaterialRepositorio.cs",
+              "ToolTip": "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistemaelastiicidad\\SistemaElasticidad\\CapaDatos\\MaterialRepositorio.cs",
+              "RelativeToolTip": "..\\CapaDatos\\MaterialRepositorio.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAmwEkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T00:42:19.714Z",
+              "EditorCaption": ""
             }
           ]
         }

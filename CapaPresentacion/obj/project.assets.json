@@ -71,11 +71,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistema elasticidad\\CapaPresentacion\\CapaPresentacion.csproj",
+      "projectUniqueName": "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistemaelastiicidad\\SistemaElasticidad\\CapaPresentacion\\CapaPresentacion.csproj",
       "projectName": "CapaPresentacion",
-      "projectPath": "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistema elasticidad\\CapaPresentacion\\CapaPresentacion.csproj",
+      "projectPath": "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistemaelastiicidad\\SistemaElasticidad\\CapaPresentacion\\CapaPresentacion.csproj",
       "packagesPath": "C:\\Users\\Wesley\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistema elasticidad\\CapaPresentacion\\obj\\",
+      "outputPath": "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistemaelastiicidad\\SistemaElasticidad\\CapaPresentacion\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -96,14 +96,14 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistema elasticidad\\CapaDatos\\CapaDatos.csproj": {
-              "projectPath": "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistema elasticidad\\CapaDatos\\CapaDatos.csproj"
+            "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistemaelastiicidad\\SistemaElasticidad\\CapaDatos\\CapaDatos.csproj": {
+              "projectPath": "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistemaelastiicidad\\SistemaElasticidad\\CapaDatos\\CapaDatos.csproj"
             },
-            "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistema elasticidad\\CapaEntidades\\CapaEntidades.csproj": {
-              "projectPath": "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistema elasticidad\\CapaEntidades\\CapaEntidades.csproj"
+            "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistemaelastiicidad\\SistemaElasticidad\\CapaEntidades\\CapaEntidades.csproj": {
+              "projectPath": "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistemaelastiicidad\\SistemaElasticidad\\CapaEntidades\\CapaEntidades.csproj"
             },
-            "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistema elasticidad\\CapaNegocio\\CapaNegocio.csproj": {
-              "projectPath": "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistema elasticidad\\CapaNegocio\\CapaNegocio.csproj"
+            "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistemaelastiicidad\\SistemaElasticidad\\CapaNegocio\\CapaNegocio.csproj": {
+              "projectPath": "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistemaelastiicidad\\SistemaElasticidad\\CapaNegocio\\CapaNegocio.csproj"
             }
           }
         }

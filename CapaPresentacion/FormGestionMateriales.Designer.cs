@@ -68,6 +68,7 @@
             // 
             lstMateriales.BackColor = Color.FromArgb(88, 103, 119);
             lstMateriales.Font = new Font("Segoe UI", 9.75F);
+            lstMateriales.ForeColor = Color.White;
             lstMateriales.FormattingEnabled = true;
             lstMateriales.ItemHeight = 17;
             lstMateriales.Location = new Point(15, 30);

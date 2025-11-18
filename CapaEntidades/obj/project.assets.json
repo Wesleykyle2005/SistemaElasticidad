@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistema elasticidad\\CapaEntidades\\CapaEntidades.csproj",
+      "projectUniqueName": "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistemaelastiicidad\\SistemaElasticidad\\CapaEntidades\\CapaEntidades.csproj",
       "projectName": "CapaEntidades",
-      "projectPath": "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistema elasticidad\\CapaEntidades\\CapaEntidades.csproj",
+      "projectPath": "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistemaelastiicidad\\SistemaElasticidad\\CapaEntidades\\CapaEntidades.csproj",
       "packagesPath": "C:\\Users\\Wesley\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistema elasticidad\\CapaEntidades\\obj\\",
+      "outputPath": "C:\\Users\\Wesley\\Desktop\\Proyectos\\Sistemaelastiicidad\\SistemaElasticidad\\CapaEntidades\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
