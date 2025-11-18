@@ -1,0 +1,11 @@
+C:\Users\Wesley\Desktop\Proyectos\Sistema elasticidad\CapaEntidades\bin\Debug\net8.0\CapaEntidades.deps.json
+C:\Users\Wesley\Desktop\Proyectos\Sistema elasticidad\CapaEntidades\bin\Debug\net8.0\CapaEntidades.dll
+C:\Users\Wesley\Desktop\Proyectos\Sistema elasticidad\CapaEntidades\bin\Debug\net8.0\CapaEntidades.pdb
+C:\Users\Wesley\Desktop\Proyectos\Sistema elasticidad\CapaEntidades\obj\Debug\net8.0\CapaEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wesley\Desktop\Proyectos\Sistema elasticidad\CapaEntidades\obj\Debug\net8.0\CapaEntidades.AssemblyInfoInputs.cache
+C:\Users\Wesley\Desktop\Proyectos\Sistema elasticidad\CapaEntidades\obj\Debug\net8.0\CapaEntidades.AssemblyInfo.cs
+C:\Users\Wesley\Desktop\Proyectos\Sistema elasticidad\CapaEntidades\obj\Debug\net8.0\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Wesley\Desktop\Proyectos\Sistema elasticidad\CapaEntidades\obj\Debug\net8.0\CapaEntidades.dll
+C:\Users\Wesley\Desktop\Proyectos\Sistema elasticidad\CapaEntidades\obj\Debug\net8.0\refint\CapaEntidades.dll
+C:\Users\Wesley\Desktop\Proyectos\Sistema elasticidad\CapaEntidades\obj\Debug\net8.0\CapaEntidades.pdb
+C:\Users\Wesley\Desktop\Proyectos\Sistema elasticidad\CapaEntidades\obj\Debug\net8.0\ref\CapaEntidades.dll
